@@ -53,7 +53,6 @@ Python this year! :ram:
         * [Nate Batchelder: Loop like a native](https://www.youtube.com/watch?time_continue=14&v=EnSu9hHGq5o)
 
 **iPython Notebook**
-    
     * [BIDS: Python Bootcamp: IPython Notebook](https://www.youtube.com/watch?v=HrylK8I1ALs&index=3&)list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9
     * [Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
     * [iPython Notebook Keybinding](https://www.webucator.com/blog/wp-content/uploads/2015/07/IPython-Notebook-Shortcuts.pdf)
