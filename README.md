@@ -53,37 +53,32 @@ Python this year! :ram:
         * [Nate Batchelder: Loop like a native](https://www.youtube.com/watch?time_continue=14&v=EnSu9hHGq5o)
 
 **iPython Notebook**
-    * [BIDS: Python Bootcamp: IPython Notebook](https://www.youtube.com/watch?v=HrylK8I1ALs&index=3&)list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9
-    * [Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
-    * [iPython Notebook Keybinding](https://www.webucator.com/blog/wp-content/uploads/2015/07/IPython-Notebook-Shortcuts.pdf)
+    * [BIDS: Python Bootcamp: IPython Notebook](https://www.youtube.com/watch?v=HrylK8I1ALs&index=3&)list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9  
+    * [Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)  
+    * [iPython Notebook Keybinding](https://www.webucator.com/blog/wp-content/uploads/2015/07/IPython-Notebook-Shortcuts.pdf)  
 
-**Pandas For Data Analysis**
-
-  **Introduction to Numpy**
+**Pandas For Data Analysis**  
+  **Introduction to Numpy**   
     * [BIDS: Python Bootcamp: Intro to Numpy](https://www.youtube.com/watch?v=PDOsOcG0m-Q)
     * [Stanford ICME 193: Scientific Python](http://stanford.edu/~arbenson/cme193.html)
     
-**Introduction to Pandas**
-    * [Dplyr/pandas Vignette Comparison](http://nbviewer.jupyter.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0)
-    * [Data School Pandas Tutorials](http://www.dataschool.io/easier-data-analysis-with-pandas/)
-    * [Data School Pandas Github iPython notebook](https://github.com/justmarkham/pandas-videos)
-    * [More Pandas Questions Answered](https://www.youtube.com/watch?v=CWRKgBtZN18&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=31)
-    * [Other Resources](http://www.dataschool.io/best-python-pandas-resources/)
-    * [Brandon Rhode's Pandas From The Groud Up](https://www.youtube.com/watch?v=5JnMutdy6Fw)
-    * [Tom Augspurgur: Pandas](https://www.youtube.com/watch?v=otCriSKVV_8)
-    * [BIDS: Python Bootcamp: Scipy Pandas](https://www.youtube.com/watch?v=bgIZAeNpL1U)
-    * [Coursera: Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home/welcome)
-    * [Chris Albon's notes](http://chrisalbon.com/)
+**Introduction to Pandas**   
+    * [Dplyr/pandas Vignette Comparison](http://nbviewer.jupyter.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0)  
+    * [Data School Pandas Tutorials](http://www.dataschool.io/easier-data-analysis-with-pandas/)  
+    * [Data School Pandas Github iPython notebook](https://github.com/justmarkham/pandas-videos)  
+    * [More Pandas Questions Answered](https://www.youtube.com/watch?v=CWRKgBtZN18&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=31)    
+    * [Other Resources](http://www.dataschool.io/best-python-pandas-resources/)  
+    * [Brandon Rhode's Pandas From The Groud Up](https://www.youtube.com/watch?v=5JnMutdy6Fw)  
+    * [Tom Augspurgur: Pandas](https://www.youtube.com/watch?v=otCriSKVV_8)  
+    * [BIDS: Python Bootcamp: Scipy Pandas](https://www.youtube.com/watch?v=bgIZAeNpL1U)  
+    * [Coursera: Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home/welcome)  
+    * [Chris Albon's notes](http://chrisalbon.com/)  
 
-  **Data Visualization**  
-
-* [BIDS: Python Bootcamp: Intro to Matplotlib](https://www.youtube.com/watch?v=j5P822TSCKs) The 800 pound gorilla, everything is customizable, but very low level
-
-* [Seaborn](https://stanford.edu/~mwaskom/software/seaborn/) I still find it a bit limited on the type of simple plots it can do
-
-* [Bokeh](http://bokeh.pydata.org/en/latest/)
-
-* [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)](https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-an)d-altair/
+  **Data Visualization**    
+* [BIDS: Python Bootcamp: Intro to Matplotlib](https://www.youtube.com/watch?v=j5P822TSCKs) The 800 pound gorilla, everything is customizable, but very low level  
+* [Seaborn](https://stanford.edu/~mwaskom/software/seaborn/) I still find it a bit limited on the type of simple plots it can do  
+* [Bokeh](http://bokeh.pydata.org/en/latest/)  
+* [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)](https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-an)d-altair/  
 
 **Writing OO Python Code**  
 * [Computational Biology: OOP For Scientist](http://tjelvarolsson.com/blog/object-oriented-programming-for-scientists/)
