@@ -1,4 +1,4 @@
-# ufo-analysis
+# Data Gold Repo
 Just playing with some data, to show up the power of Pandas and matplotlib in Python!
 
 ## The main goal of this repo is to store up some information while I learn more about one of the most powerful
@@ -13,8 +13,8 @@ I be glad to help!! :ram:
 Feel free to fork and use to remeber yourself about what's next hahaha, but remember! *This is MY PERSONAL GOAL* for
 Python this year! :ram:
 
-## Performance Goals
-
+## Performance Goals  
+   
 * **[Immediate]** Learn to write pythonic code
 * **[Shorter term, easiest to practice]** Write re-usable, modular, tested code for my data work and knowledge posts
 * **[Medium term, harder to practice]** Achieve efficiency and feature parity on Data Analysis using Python compared to R
@@ -30,11 +30,11 @@ Python this year! :ram:
 
 ## Project Milestones
 
-* **Learning Python & Best Practices**
-[Columbia Data Scientist Style Guide]:http://columbia-applied-data-science.github.io/pages/lowclass-python-style-guide.html
-[Writing Idiomatic Python - Jeff Knupp]:https://jeffknupp.com/writing-idiomatic-python-ebook/
-[Stanford CS 41: Idiomatic Python]:https://drive.google.com/file/d/0B-eHIhYpHrGDNGZCYUN6SVB1OGc/view
-[Another Tutorial On How To Write Pythonic Code]:http://safehammad.com/downloads/python-idioms-2014-01-16.pdf
+**Learning Python & Best Practices**    
+ * [Columbia Data Scientist Style Guide](http://columbia-applied-data-science.github.io/pages/lowclass-python-style-guide.html)  
+ * [Writing Idiomatic Python - Jeff Knupp](https://jeffknupp.com/writing-idiomatic-python-ebook/)  
+ * [Stanford CS 41: Idiomatic Python](https://drive.google.com/file/d/0B-eHIhYpHrGDNGZCYUN6SVB1OGc/view)  
+ * [Another Tutorial On How To Write Pythonic Code](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf)  
 
 * **Writing Pythonic Code**
     * Guidelines For Writing Pythonic Code
@@ -76,7 +76,7 @@ Python this year! :ram:
 [Coursera: Introduction to Data Science in Python]:https://www.coursera.org/learn/python-data-analysis/home/welcome
 [Chris Albon's notes]:http://chrisalbon.com/
 
-* **Data Visualization**
+* **Data Visualization**  
 
 [BIDS: Python Bootcamp: Intro to Matplotlib]:https://www.youtube.com/watch?v=j5P822TSCKs 
 The 800 pound gorilla, everything is customizable, but very low level
@@ -88,11 +88,11 @@ I still find it a bit limited on the type of simple plots it can do
 
 [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)]:https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
 
-* **Writing OO Python Code**
+* **Writing OO Python Code**  
 [Computational Biology: OOP For Scientist]:http://tjelvarolsson.com/blog/object-oriented-programming-for-scientists/
 *I don't like that much about OO hahahaha!*
 
-* **Writing Functional Programming Python Code**
+* **Writing Functional Programming Python Code**  
 [Simeon Franklin's higher order function]:http://simeonfranklin.com/blog/2013/jun/17/higher-order-functions-python/
 [BIDS: Python Bootcamp: Higher order functions]:https://www.youtube.com/watch?v=ob797BA49ZQ
 [Improve Your Python: Jeff Knupp: Yield & Generator Explained]:https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/
@@ -127,7 +127,7 @@ Once mastered all the above, the next natural step is to create public work that
 
 * **Building Packages In Python (Next Year?)**
 
-[Computational Biology: Using Cookiecutter To Set Up A Project] :http://tjelvarolsson.com/blog/using-cookiecutter-a-passive-code-generator/
+[Computational Biology: Using Cookiecutter To Set Up A Project]:http://tjelvarolsson.com/blog/using-cookiecutter-a-passive-code-generator/
 
 [Computational Biology: Creating A Clean Pytyon Development Environment]:http://tjelvarolsson.com/blog/begginers-guide-creating-clean-python-development-environments/
 
